@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "activedirectory": "^0.7.2",
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "co": "^1.0.1",
     "connect-multiparty": "^2.2.0",
     "cookie-parser": "~1.4.3",
